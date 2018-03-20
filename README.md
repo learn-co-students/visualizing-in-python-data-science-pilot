@@ -22,7 +22,7 @@ Molly gives us a list of all of the customer locations, along with Bob's.  Here 
 | Steven | 3  |     6     | 
 | Natalie| 5  |     4     | 
 
-Now to figure out is who is closest to Bob you decide to make a graph of each customer's locations, as well as Bob's, in a graph.
+To figure out who is closest to Bob, you decide to make a graph of Bob's location and each customer's location.
 
 ### Visualizing Data with Graphs
 
